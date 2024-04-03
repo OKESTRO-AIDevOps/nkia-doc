@@ -2,10 +2,10 @@
 
 
 [Description](#description)\
-[Where to start](#where-to-start)
+[Where to start](#where-to-start)\
 [Core components](#core-components)\
-[Peripheral components](#peripheral-components)
-
+[Peripheral components](#peripheral-components)\
+[Search](#search)
 
 ## Description
 
@@ -57,3 +57,7 @@ But here is the overall picture of how everything works in conjunction
 [hack](hack)
 
 [doc](doc)
+
+## Search
+
+[Click here to search](index.md)
