@@ -1,13 +1,25 @@
 # test
 
 
-# 20231114
 
-keygen from the website
+# keygen from the website
 
 
-# 20231115 
+`- - ORCH-CONNCHK:`
 
+`- - ORCH-KEYGEN:`
+
+```shell
+
+# move priv.txt to /tmp/priv.txt
+
+
+./nokubectl init /tmp/priv.txt
+
+```
+
+
+# nokubectl start
 
 ./nokubectl --as admin orch conncheck
 
